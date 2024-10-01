@@ -1,7 +1,7 @@
 # SIEM
 
-Alienvault
-ArcSight
+#Alienvault
+#ArcSight
 Chronicle
 Crowdstrike Falcon Logscale
 Devo
